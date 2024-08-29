@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dortlae.github.io/sitemap.html.gz
+Sitemap: https://dortlae.github.io/app/sitemap.html.gz
+Sitemap: https://dortlae.github.io/assets/sitemap.html.gz
+Sitemap: https://dortlae.github.io/css/sitemap.html.gz
+Sitemap: https://dortlae.github.io/includes/sitemap.html.gz
+Sitemap: https://dortlae.github.io/item/sitemap.html.gz
+Sitemap: https://dortlae.github.io/src/sitemap.html.gz
